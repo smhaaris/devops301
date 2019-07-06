@@ -1,0 +1,6 @@
+username=admin
+password=admin
+hostname=localhost
+port=8080
+jmf=http://localhost:7999/jmf
+grafana=http://localhost:3000
